@@ -24,7 +24,7 @@ pip install plotly==4.8.2
 
 ![Cured Plot for Uttar Pradesh](https://user-images.githubusercontent.com/30586187/86510900-acbcd780-be11-11ea-929a-85d967081df5.png)
 
-### Visualisatin for Death Cases due to Corona in Uttar Pradesh
+### Visualisation for Death Cases due to Corona in Uttar Pradesh
 
 ![death due to Covid19 Plot in Uttar Pradesh](https://user-images.githubusercontent.com/30586187/86510904-c0683e00-be11-11ea-81d4-1334fb414d4e.png)
 
