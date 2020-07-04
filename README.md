@@ -48,6 +48,17 @@ plt.show()
 ![DensityCurve](https://user-images.githubusercontent.com/30586187/86511065-1ee1ec00-be13-11ea-8fd0-98652d94c912.png)
 
 
+### Confirmed Cases in India including Indian National and Foreign Indian National
+
+![newplot](https://user-images.githubusercontent.com/30586187/86515419-5a41e200-be36-11ea-99df-b6d5c97a95a3.png)
+
+### Statewise Chart
+
+![newplot (2)](https://user-images.githubusercontent.com/30586187/86515422-5f9f2c80-be36-11ea-9280-5ad88b541686.png)
+
+> Plotly Templates
+
+[Click here to view Plotly Template](https://plotly.com/python/templates/)
 
 [Kaggle dataset](https://www.kaggle.com/sudalairajkumar/covid19-in-india)
 
