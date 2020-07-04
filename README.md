@@ -17,9 +17,36 @@ Covid19 Analysis, Prediction, Visualisation in Python
 pip install plotly==4.8.2
 ```
 ### Visualisation for Cured Cases in India
+
 ![Covid19 Cured Cases in India](https://user-images.githubusercontent.com/30586187/86510756-37043c00-be10-11ea-9388-6d4721b620ae.png)
 
 ### Visualisation for Cured Cases in Uttar Pradesh
+
+![Cured Plot for Uttar Pradesh](https://user-images.githubusercontent.com/30586187/86510900-acbcd780-be11-11ea-929a-85d967081df5.png)
+
+### Visualisatin for Death Cases due to Corona in Uttar Pradesh
+
+![death due to Covid19 Plot in Uttar Pradesh](https://user-images.githubusercontent.com/30586187/86510904-c0683e00-be11-11ea-81d4-1334fb414d4e.png)
+
+>For Plotting a Histogram for a density curve
+
+```Python
+# generate random normal distribution
+mu, sigma = 0, 0.1 # mean and standard deviation
+#name of your data set. In my case it is covid1
+covid1 = np.random.normal(mu, sigma, 1000)
+
+# plot histogram with density curve 
+count, bins, ignored = plt.hist(covid1, 30, density=True)
+plt.plot(bins, 1/(sigma * np.sqrt(2 * np.pi)) *
+         np.exp( - (bins - mu)**2 / (2 * sigma**2) ), 
+         linewidth=2, color='r')
+plt.show()
+```
+### Density Curve
+
+
+
 
 
 [Kaggle dataset](https://www.kaggle.com/sudalairajkumar/covid19-in-india)
