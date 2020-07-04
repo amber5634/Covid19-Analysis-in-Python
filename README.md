@@ -45,7 +45,7 @@ plt.show()
 ```
 ### Density Curve
 
-
+![DensityCurve](https://user-images.githubusercontent.com/30586187/86511065-1ee1ec00-be13-11ea-8fd0-98652d94c912.png)
 
 
 
