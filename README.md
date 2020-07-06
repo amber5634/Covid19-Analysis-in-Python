@@ -29,13 +29,13 @@ pip install plotly==4.8.2
 ![death due to Covid19 Plot in Uttar Pradesh](https://user-images.githubusercontent.com/30586187/86510904-c0683e00-be11-11ea-81d4-1334fb414d4e.png)
 
 ### Visualisation for Confirmed Cases in Delhi
-![newplot (4)](https://user-images.githubusercontent.com/30586187/86580825-db1aee00-bf9c-11ea-8c1a-8ceeac2fdecb.png)
+
 
 ### Visualisation for Death Cases in Delhi
-![newplot (5)](https://user-images.githubusercontent.com/30586187/86580824-db1aee00-bf9c-11ea-931c-05e1bff6ea6d.png)
+
 
 ### Visualisation for Recovered Cases in Delhi
-![newplot (6)](https://user-images.githubusercontent.com/30586187/86580828-dc4c1b00-bf9c-11ea-8148-3ec0c65d1b7b.png)
+
 
 >For Plotting a Histogram for a density curve
 
