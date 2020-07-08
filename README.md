@@ -65,6 +65,18 @@ plt.show()
 
 ![newplot (2)](https://user-images.githubusercontent.com/30586187/86515422-5f9f2c80-be36-11ea-9280-5ad88b541686.png)
 
+###  Pie Chart 
+![newplot (10)](https://user-images.githubusercontent.com/30586187/86897572-3841ab80-c125-11ea-93fa-36629b3d27ae.png)
+
+### Confirmed Cases in Delhi due to Covid-19 for June Month
+![newplot (11)](https://user-images.githubusercontent.com/30586187/86897577-3972d880-c125-11ea-80d7-cdc023811097.png)
+
+### Death Cases in Delhi due to Covid-19 for June Month
+![newplot (12)](https://user-images.githubusercontent.com/30586187/86897584-3bd53280-c125-11ea-8051-a5f3af88441b.png)
+
+### Recovered Cases in Delhi due to Covid-19 for June Month 
+![newplot (13)](https://user-images.githubusercontent.com/30586187/86897587-3d065f80-c125-11ea-84b1-575b7f143280.png)
+
 > Plotly Templates
 
 [Click here to view Plotly Template](https://plotly.com/python/templates/)
@@ -72,6 +84,8 @@ plt.show()
 [Kaggle dataset](https://www.kaggle.com/sudalairajkumar/covid19-in-india)
 
 [Covid-19 India dataset Ministry of Health and Family Welfare(MoHFH) Goverment of India](https://www.mohfw.gov.in/)
+
+[For latest updated Covid-19 dataset](https://api.covid19india.org/csv/)
 
 
 > Happy Visualisation 
