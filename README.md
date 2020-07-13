@@ -77,6 +77,10 @@ plt.show()
 ### Recovered Cases in Delhi due to Covid-19 for June Month 
 ![newplot (13)](https://user-images.githubusercontent.com/30586187/86897587-3d065f80-c125-11ea-84b1-575b7f143280.png)
 
+### Comparison between Uttar Pradesh and Delhi for Confirmed Case( June Month)
+![download (1)](https://user-images.githubusercontent.com/30586187/87289588-78849d80-c51a-11ea-8842-e9a3ccae60e1.png)
+
+
 > Plotly Templates
 
 [Click here to view Plotly Template](https://plotly.com/python/templates/)
